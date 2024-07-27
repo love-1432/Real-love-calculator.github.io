@@ -148,3 +148,4 @@ if (isset($_GET['name1']) && isset($_GET['name2'])) {
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="dist/scripts/main.js"></script>
 </body>
+</html>
