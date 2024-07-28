@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /love_calculator.html
+Allow: /
 Sitemap:https://real-love-calculator.github.io/sitemap.xml
